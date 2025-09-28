@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **saadbabary97@gmail.com** For Collaboration/Project or Any
 - 😄 **Pronouns:** Babary
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-## 🔗 I am a Software Engineer. 😊😊
+## 🔗 I am a Senior Software Engineer. 😊😊
 
 <!-- Snake Game Repo View -->
 
@@ -25,11 +25,4 @@ Email Me 👉 ✉️ **saadbabary97@gmail.com** For Collaboration/Project or Any
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=muhammad-suleman-ms&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=muhammad-suleman-ms&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
